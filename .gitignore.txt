@@ -1,0 +1,12 @@
+# Ignore common C/C++ binary file extensions
+*.o
+*.out
+*.a
+*.so
+*.exe
+*.dll
+*.dylib
+*.bin
+
+# Ignore all files in a specific directory
+/bin/*
